@@ -1,6 +1,5 @@
-# hello_app
-
-Flutter based hello world application 
+# Spaceflight News App
+ 
 
 ## Getting Started
 
